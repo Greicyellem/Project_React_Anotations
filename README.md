@@ -3,7 +3,8 @@
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- O projeto de lista de tarefas (To Do List) desenvolvido com #ReactJS é uma ferramenta útil para auxiliar na organização de suas atividades diárias! 👏
+
+O projeto de lista de tarefas (To Do List) desenvolvido com #ReactJS é uma ferramenta útil para auxiliar na organização de suas atividades diárias! 👏
 
 O projeto apresenta diversas funcionalidades úteis, como a criação de tarefas, remoção de tarefas, alteração de status da tarefa (completa ou incompleta), filtro por status e ordenação alfabética, além da pesquisa de tarefas!
 
